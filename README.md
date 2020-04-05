@@ -1,0 +1,2 @@
+# mandiri
+Awak mula
